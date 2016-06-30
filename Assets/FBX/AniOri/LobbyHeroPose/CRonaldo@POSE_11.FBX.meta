@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: fae865d1e617d1f43be74b8a70944486
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: All_001
+    100002: All_002
+    100004: Bip001 Footsteps
+    100006: Bip001 HeadNub
+    100008: Bip001 L Calf
+    100010: Bip001 L Clavicle
+    100012: Bip001 L Finger0
+    100014: Bip001 L Finger0Nub
+    100016: Bip001 L Foot
+    100018: Bip001 L Forearm
+    100020: Bip001 L Thigh
+    100022: Bip001 L Toe0
+    100024: Bip001 L Toe0Nub
+    100026: Bip001 L UpperArm
+    100028: Bip001 Neck
+    100030: Bip001 Pelvis
+    100032: Bip001 R Calf
+    100034: Bip001 R Clavicle
+    100036: Bip001 R Finger0
+    100038: Bip001 R Finger0Nub
+    100040: Bip001 R Foot
+    100042: Bip001 R Forearm
+    100044: Bip001 R Thigh
+    100046: Bip001 R Toe0
+    100048: Bip001 R Toe0Nub
+    100050: Bip001 R UpperArm
+    100052: Bip001 Spine
+    100054: Bip001 Spine1
+    100056: Bone001
+    100058: bone_ball
+    100060: //RootNode
+    100062: Head
+    100064: Left_Hand
+    100066: Position
+    100068: Right_Hand
+    100070: Root
+    100072: ball
+    100074: body
+    100076: hose
+    100078: leader
+    100080: left_wrister
+    100082: number
+    100084: right_wrister
+    100086: Root L Finger01
+    100088: Root L Finger02
+    100090: Root L Finger1
+    100092: Root L Finger11
+    100094: Root L Finger12
+    100096: Root L Finger1Nub
+    100098: Root L Finger2
+    100100: Root L Finger21
+    100102: Root L Finger22
+    100104: Root L Finger2Nub
+    100106: Root R Finger01
+    100108: Root R Finger02
+    100110: Root R Finger1
+    100112: Root R Finger11
+    100114: Root R Finger12
+    100116: Root R Finger1Nub
+    100118: Root R Finger2
+    100120: Root R Finger21
+    100122: Root R Finger22
+    100124: Root R Finger2Nub
+    100126: shirt
+    100128: shoes
+    100130: Root L Finger3
+    100132: Root L Finger31
+    100134: Root L Finger3Nub
+    100136: Root L Finger4
+    100138: Root L Finger41
+    100140: Root L Finger4Nub
+    100142: Root R Finger3
+    100144: Root R Finger31
+    100146: Root R Finger3Nub
+    100148: Root R Finger4
+    100150: Root R Finger41
+    100152: Root R Finger4Nub
+    400000: All_001
+    400002: All_002
+    400004: Bip001 Footsteps
+    400006: Bip001 HeadNub
+    400008: Bip001 L Calf
+    400010: Bip001 L Clavicle
+    400012: Bip001 L Finger0
+    400014: Bip001 L Finger0Nub
+    400016: Bip001 L Foot
+    400018: Bip001 L Forearm
+    400020: Bip001 L Thigh
+    400022: Bip001 L Toe0
+    400024: Bip001 L Toe0Nub
+    400026: Bip001 L UpperArm
+    400028: Bip001 Neck
+    400030: Bip001 Pelvis
+    400032: Bip001 R Calf
+    400034: Bip001 R Clavicle
+    400036: Bip001 R Finger0
+    400038: Bip001 R Finger0Nub
+    400040: Bip001 R Foot
+    400042: Bip001 R Forearm
+    400044: Bip001 R Thigh
+    400046: Bip001 R Toe0
+    400048: Bip001 R Toe0Nub
+    400050: Bip001 R UpperArm
+    400052: Bip001 Spine
+    400054: Bip001 Spine1
+    400056: Bone001
+    400058: bone_ball
+    400060: //RootNode
+    400062: Head
+    400064: Left_Hand
+    400066: Position
+    400068: Right_Hand
+    400070: Root
+    400072: ball
+    400074: body
+    400076: hose
+    400078: leader
+    400080: left_wrister
+    400082: number
+    400084: right_wrister
+    400086: Root L Finger01
+    400088: Root L Finger02
+    400090: Root L Finger1
+    400092: Root L Finger11
+    400094: Root L Finger12
+    400096: Root L Finger1Nub
+    400098: Root L Finger2
+    400100: Root L Finger21
+    400102: Root L Finger22
+    400104: Root L Finger2Nub
+    400106: Root R Finger01
+    400108: Root R Finger02
+    400110: Root R Finger1
+    400112: Root R Finger11
+    400114: Root R Finger12
+    400116: Root R Finger1Nub
+    400118: Root R Finger2
+    400120: Root R Finger21
+    400122: Root R Finger22
+    400124: Root R Finger2Nub
+    400126: shirt
+    400128: shoes
+    400130: Root L Finger3
+    400132: Root L Finger31
+    400134: Root L Finger3Nub
+    400136: Root L Finger4
+    400138: Root L Finger41
+    400140: Root L Finger4Nub
+    400142: Root R Finger3
+    400144: Root R Finger31
+    400146: Root R Finger3Nub
+    400148: Root R Finger4
+    400150: Root R Finger41
+    400152: Root R Finger4Nub
+    4300000: right_wrister
+    4300002: left_wrister
+    4300004: leader
+    4300006: number
+    4300008: body
+    4300010: shirt
+    4300012: hose
+    4300014: shoes
+    4300016: ball
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: ball
+    13700002: body
+    13700004: hose
+    13700006: leader
+    13700008: left_wrister
+    13700010: number
+    13700012: right_wrister
+    13700014: shirt
+    13700016: shoes
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0250000004
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

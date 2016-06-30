@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 4cec9393209c5b344b758f6bf5a920fe
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: bg
+    100002: ck4_1
+    100004: ck4_2
+    100006: //RootNode
+    100008: glow
+    100010: pPlane10
+    100012: pPlane2
+    100014: pPlane4
+    100016: pPlane6
+    100018: pPlane7
+    100020: pPlane9
+    100022: group1
+    100024: group2
+    100026: ck2
+    400000: bg
+    400002: ck4_1
+    400004: ck4_2
+    400006: //RootNode
+    400008: glow
+    400010: pPlane10
+    400012: pPlane2
+    400014: pPlane4
+    400016: pPlane6
+    400018: pPlane7
+    400020: pPlane9
+    400022: group1
+    400024: group2
+    400026: ck2
+    2300000: bg
+    2300002: ck4_1
+    2300004: ck4_2
+    2300006: glow
+    2300008: pPlane10
+    2300010: pPlane2
+    2300012: pPlane4
+    2300014: pPlane6
+    2300016: pPlane7
+    2300018: pPlane9
+    2300020: ck2
+    3300000: bg
+    3300002: ck4_1
+    3300004: ck4_2
+    3300006: glow
+    3300008: pPlane10
+    3300010: pPlane2
+    3300012: pPlane4
+    3300014: pPlane6
+    3300016: pPlane7
+    3300018: pPlane9
+    3300020: ck2
+    4300000: bg
+    4300002: glow
+    4300004: pPlane4
+    4300006: pPlane2
+    4300008: pPlane9
+    4300010: pPlane6
+    4300012: pPlane7
+    4300014: pPlane10
+    4300016: ck4_2
+    4300018: ck4_1
+    4300020: ck2
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 1
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 150
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ck4_1
+        weight: 1
+      - path: ck4_2
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/pPlane2
+        weight: 1
+      - path: group1/pPlane4
+        weight: 1
+      - path: group1/pPlane9
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/pPlane6
+        weight: 1
+      - path: group2/pPlane7
+        weight: 1
+      - path: group2/pPlane10
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

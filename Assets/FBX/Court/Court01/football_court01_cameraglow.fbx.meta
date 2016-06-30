@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 512ba01928f79744d999592bb8afd83c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: camera_glow01
+    100002: camera_glow010
+    100004: camera_glow015
+    100006: camera_glow016
+    100008: camera_glow018
+    100010: camera_glow020
+    100012: camera_glow022
+    100014: camera_glow025
+    100016: camera_glow027
+    100018: camera_glow029
+    100020: camera_glow031
+    100022: camera_glow032
+    100024: camera_glow033
+    100026: camera_glow035
+    100028: camera_glow036
+    100030: camera_glow037
+    100032: camera_glow038
+    100034: camera_glow04
+    100036: camera_glow040
+    100038: camera_glow041
+    100040: camera_glow042
+    100042: camera_glow06
+    100044: camera_glow07
+    100046: //RootNode
+    400000: camera_glow01
+    400002: camera_glow010
+    400004: camera_glow015
+    400006: camera_glow016
+    400008: camera_glow018
+    400010: camera_glow020
+    400012: camera_glow022
+    400014: camera_glow025
+    400016: camera_glow027
+    400018: camera_glow029
+    400020: camera_glow031
+    400022: camera_glow032
+    400024: camera_glow033
+    400026: camera_glow035
+    400028: camera_glow036
+    400030: camera_glow037
+    400032: camera_glow038
+    400034: camera_glow04
+    400036: camera_glow040
+    400038: camera_glow041
+    400040: camera_glow042
+    400042: camera_glow06
+    400044: camera_glow07
+    400046: //RootNode
+    2300000: camera_glow01
+    2300002: camera_glow010
+    2300004: camera_glow015
+    2300006: camera_glow016
+    2300008: camera_glow018
+    2300010: camera_glow020
+    2300012: camera_glow022
+    2300014: camera_glow025
+    2300016: camera_glow027
+    2300018: camera_glow029
+    2300020: camera_glow031
+    2300022: camera_glow032
+    2300024: camera_glow033
+    2300026: camera_glow035
+    2300028: camera_glow036
+    2300030: camera_glow037
+    2300032: camera_glow038
+    2300034: camera_glow04
+    2300036: camera_glow040
+    2300038: camera_glow041
+    2300040: camera_glow042
+    2300042: camera_glow06
+    2300044: camera_glow07
+    3300000: camera_glow01
+    3300002: camera_glow010
+    3300004: camera_glow015
+    3300006: camera_glow016
+    3300008: camera_glow018
+    3300010: camera_glow020
+    3300012: camera_glow022
+    3300014: camera_glow025
+    3300016: camera_glow027
+    3300018: camera_glow029
+    3300020: camera_glow031
+    3300022: camera_glow032
+    3300024: camera_glow033
+    3300026: camera_glow035
+    3300028: camera_glow036
+    3300030: camera_glow037
+    3300032: camera_glow038
+    3300034: camera_glow04
+    3300036: camera_glow040
+    3300038: camera_glow041
+    3300040: camera_glow042
+    3300042: camera_glow06
+    3300044: camera_glow07
+    4300000: camera_glow01
+    4300002: camera_glow04
+    4300004: camera_glow06
+    4300006: camera_glow07
+    4300008: camera_glow010
+    4300010: camera_glow015
+    4300012: camera_glow016
+    4300014: camera_glow018
+    4300016: camera_glow020
+    4300018: camera_glow022
+    4300020: camera_glow025
+    4300022: camera_glow027
+    4300024: camera_glow029
+    4300026: camera_glow031
+    4300028: camera_glow032
+    4300030: camera_glow033
+    4300032: camera_glow035
+    4300034: camera_glow036
+    4300036: camera_glow037
+    4300038: camera_glow038
+    4300040: camera_glow040
+    4300042: camera_glow041
+    4300044: camera_glow042
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 36
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: camera_glow01
+        weight: 1
+      - path: camera_glow04
+        weight: 1
+      - path: camera_glow06
+        weight: 1
+      - path: camera_glow07
+        weight: 1
+      - path: camera_glow010
+        weight: 1
+      - path: camera_glow015
+        weight: 1
+      - path: camera_glow016
+        weight: 1
+      - path: camera_glow018
+        weight: 1
+      - path: camera_glow020
+        weight: 1
+      - path: camera_glow022
+        weight: 1
+      - path: camera_glow025
+        weight: 1
+      - path: camera_glow027
+        weight: 1
+      - path: camera_glow029
+        weight: 1
+      - path: camera_glow031
+        weight: 1
+      - path: camera_glow032
+        weight: 1
+      - path: camera_glow033
+        weight: 1
+      - path: camera_glow035
+        weight: 1
+      - path: camera_glow036
+        weight: 1
+      - path: camera_glow037
+        weight: 1
+      - path: camera_glow038
+        weight: 1
+      - path: camera_glow040
+        weight: 1
+      - path: camera_glow041
+        weight: 1
+      - path: camera_glow042
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

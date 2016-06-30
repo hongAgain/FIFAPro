@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 1825426be0aaa734b8473ee824fb263b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: All_001
+    100002: All_002
+    100004: ball
+    100006: Bip001 Footsteps
+    100008: Bip001 HeadNub
+    100010: Bip001 L Calf
+    100012: Bip001 L Clavicle
+    100014: Bip001 L Finger0
+    100016: Bip001 L Finger0Nub
+    100018: Bip001 L Foot
+    100020: Bip001 L Forearm
+    100022: Bip001 L Thigh
+    100024: Bip001 L Toe0
+    100026: Bip001 L Toe0Nub
+    100028: Bip001 L UpperArm
+    100030: Bip001 Neck
+    100032: Bip001 Pelvis
+    100034: Bip001 R Calf
+    100036: Bip001 R Clavicle
+    100038: Bip001 R Finger0
+    100040: Bip001 R Finger0Nub
+    100042: Bip001 R Foot
+    100044: Bip001 R Forearm
+    100046: Bip001 R Thigh
+    100048: Bip001 R Toe0
+    100050: Bip001 R Toe0Nub
+    100052: Bip001 R UpperArm
+    100054: Bip001 Spine
+    100056: Bip001 Spine1
+    100058: body
+    100060: Bone001
+    100062: bone_ball
+    100064: Head
+    100066: hose
+    100068: leader
+    100070: Left_Hand
+    100072: left_wrister
+    100074: number
+    100076: Position
+    100078: Right_Hand
+    100080: right_wrister
+    100082: Root
+    100084: Root L Finger01
+    100086: Root L Finger02
+    100088: Root L Finger1
+    100090: Root L Finger11
+    100092: Root L Finger12
+    100094: Root L Finger1Nub
+    100096: Root L Finger2
+    100098: Root L Finger21
+    100100: Root L Finger22
+    100102: Root L Finger2Nub
+    100104: Root R Finger01
+    100106: Root R Finger02
+    100108: Root R Finger1
+    100110: Root R Finger11
+    100112: Root R Finger12
+    100114: Root R Finger1Nub
+    100116: Root R Finger2
+    100118: Root R Finger21
+    100120: Root R Finger22
+    100122: Root R Finger2Nub
+    100124: shirt
+    100126: shoes
+    100128: //RootNode
+    100130: body 1
+    100132: Root L Finger3
+    100134: Root L Finger31
+    100136: Root L Finger3Nub
+    100138: Root L Finger4
+    100140: Root L Finger41
+    100142: Root L Finger4Nub
+    100144: Root R Finger3
+    100146: Root R Finger31
+    100148: Root R Finger3Nub
+    100150: Root R Finger4
+    100152: Root R Finger41
+    100154: Root R Finger4Nub
+    400000: All_001
+    400002: All_002
+    400004: ball
+    400006: Bip001 Footsteps
+    400008: Bip001 HeadNub
+    400010: Bip001 L Calf
+    400012: Bip001 L Clavicle
+    400014: Bip001 L Finger0
+    400016: Bip001 L Finger0Nub
+    400018: Bip001 L Foot
+    400020: Bip001 L Forearm
+    400022: Bip001 L Thigh
+    400024: Bip001 L Toe0
+    400026: Bip001 L Toe0Nub
+    400028: Bip001 L UpperArm
+    400030: Bip001 Neck
+    400032: Bip001 Pelvis
+    400034: Bip001 R Calf
+    400036: Bip001 R Clavicle
+    400038: Bip001 R Finger0
+    400040: Bip001 R Finger0Nub
+    400042: Bip001 R Foot
+    400044: Bip001 R Forearm
+    400046: Bip001 R Thigh
+    400048: Bip001 R Toe0
+    400050: Bip001 R Toe0Nub
+    400052: Bip001 R UpperArm
+    400054: Bip001 Spine
+    400056: Bip001 Spine1
+    400058: body
+    400060: Bone001
+    400062: bone_ball
+    400064: Head
+    400066: hose
+    400068: leader
+    400070: Left_Hand
+    400072: left_wrister
+    400074: number
+    400076: Position
+    400078: Right_Hand
+    400080: right_wrister
+    400082: Root
+    400084: Root L Finger01
+    400086: Root L Finger02
+    400088: Root L Finger1
+    400090: Root L Finger11
+    400092: Root L Finger12
+    400094: Root L Finger1Nub
+    400096: Root L Finger2
+    400098: Root L Finger21
+    400100: Root L Finger22
+    400102: Root L Finger2Nub
+    400104: Root R Finger01
+    400106: Root R Finger02
+    400108: Root R Finger1
+    400110: Root R Finger11
+    400112: Root R Finger12
+    400114: Root R Finger1Nub
+    400116: Root R Finger2
+    400118: Root R Finger21
+    400120: Root R Finger22
+    400122: Root R Finger2Nub
+    400124: shirt
+    400126: shoes
+    400128: //RootNode
+    400130: body 1
+    400132: Root L Finger3
+    400134: Root L Finger31
+    400136: Root L Finger3Nub
+    400138: Root L Finger4
+    400140: Root L Finger41
+    400142: Root L Finger4Nub
+    400144: Root R Finger3
+    400146: Root R Finger31
+    400148: Root R Finger3Nub
+    400150: Root R Finger4
+    400152: Root R Finger41
+    400154: Root R Finger4Nub
+    4300000: shirt
+    4300002: shoes
+    4300004: number
+    4300006: leader
+    4300008: left_wrister
+    4300010: right_wrister
+    4300012: hose
+    4300014: body
+    4300016: ball
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: ball
+    13700002: body
+    13700004: hose
+    13700006: leader
+    13700008: left_wrister
+    13700010: number
+    13700012: right_wrister
+    13700014: shirt
+    13700016: shoes
+    13700018: body 1
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0250000004
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

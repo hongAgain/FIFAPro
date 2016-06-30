@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <SDK Name="NoSDK">
+    <FilePaths />
+    <Platforms>
+      <Platform0>iPhone</Platform0>
+      <Platform1>Android</Platform1>
+      <Platform2>WP8</Platform2>
+      <Platform3>Standalone</Platform3>
+    </Platforms>
+  </SDK>
+  <SDK Name="Mobage">
+    <FilePaths>
+      <Path0>Assets/Scripts/SDK/Mobage</Path0>
+      <Path1>Assets/Resources/MobageCallback.prefab</Path1>
+    </FilePaths>
+    <Platforms>
+      <Platform0>iPhone</Platform0>
+      <Platform1>Android</Platform1>
+      <Platform2>WP8</Platform2>
+      <Platform3>Standalone</Platform3>
+    </Platforms>
+  </SDK>
+</Root>

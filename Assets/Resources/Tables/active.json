@@ -1,0 +1,1 @@
+{"1":{"id":"1","name":"兑换购买","desc":"","type":0,"key":"","ui":""},"2":{"id":"2","name":"累计充值","desc":"","type":1,"key":"rmb","ui":"LJCZ"},"3":{"id":"3","name":"用户等级","desc":"","type":1,"key":"lv","ui":"YHDJ"},"5":{"id":"5","name":"充值记录","desc":"活动时间内充值金额（钻石）","type":2,"key":"pay","ui":"CZJL"},"6":{"id":"6","name":"累计登录","desc":"活动时间内累计登录次数","type":2,"key":"login","ui":"LJDL"}}
